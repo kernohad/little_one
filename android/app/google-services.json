@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "65361462968",
+    "project_id": "little-one-40dc6",
+    "storage_bucket": "little-one-40dc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65361462968:android:f3f5b535c9e6ec48c2564d",
+        "android_client_info": {
+          "package_name": "com.example.little_one"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65361462968-bm9s9l33c6k8ejdult8pmjo36k524sla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMfzRnHSB32HggCgknlh8EJwQwNaLGR-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65361462968-bm9s9l33c6k8ejdult8pmjo36k524sla.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "65361462968-9tvr083rd8fc26i8c20jbu4lvc6h7i80.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.littleOne"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
